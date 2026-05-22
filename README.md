@@ -6,4 +6,5 @@ Data analysis for UPED602E
 - *data.csv*: data prepared for analysis.
 
 ### Analysis
-- *General Analysis*: generic analysis and plotting of the aggregated data
+- *General Analysis.ipynb*: generic analysis and plotting of the aggregated data
+- *PhD Analysis.ipynb*: analysis and plotting of the data stratified by level (BSc+MSc vs PhD)
